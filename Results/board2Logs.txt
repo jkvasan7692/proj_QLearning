@@ -1,0 +1,8 @@
+Training for Board 2 using Q Table
+Testing for Board 2 using Q Table
+Num of Wins in % for Random Player: 16.900000000000002
+Num of wins in % for Q Table Player: 62.4
+Training for Board 2 using QFunction Approximator
+Testing for Board 2 using Qfunction approximator
+Num of Wins in % for Random player: 32.300000000000004
+Num of wins in % for Q Player with function approximator: 49.9

@@ -2,3 +2,6 @@ Training for Board 3 using Q table and seed learning
 Testing for Board 3 using Q Table
 Num of Wins in % for Random Player: 49.8
 Num of wins in % for Q Table Player: 50.2
+Testing for Board 3 using Qfunction approximator
+Num of Wins in % for Random player: 40.2
+Num of wins in % for Q Player with function approximator: 59.8
